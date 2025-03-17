@@ -1,6 +1,6 @@
 ---
-title: "Consultoria SRE / DevOps / Engenharia"
-summary: "consulting"
+title: "Consultoria SRE / DevOps / Engenharia de Sofware"
+summary: "consultoria"
 ---
 
 ## CI/CD
